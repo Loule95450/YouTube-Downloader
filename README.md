@@ -26,7 +26,7 @@ The goal of project is to ease access to the YouTube videos link.
          "clientFormFactor":"UNKNOWN_FORM_FACTOR",
          "clientScreen":"WATCH",
          "mainAppWebInfo":{
-            "graftUrl": "/watch?v={Video ID}" // <- Change here
+            "graftUrl": "/watch?v={Video ID}" // <- Change here (Delete this comment)
          }
       },
       "user":{
@@ -42,7 +42,7 @@ The goal of project is to ease access to the YouTube videos link.
          ]
       }
    },
-   "videoId":"{Video ID}", // <- Change here
+   "videoId":"{Video ID}", // <- Change here (Delete this comment)
    "playbackContext":{
       "contentPlaybackContext":{
          "vis":0,
